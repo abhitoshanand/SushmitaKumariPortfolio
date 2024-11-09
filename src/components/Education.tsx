@@ -11,7 +11,7 @@ export function Education() {
     {
       degree: "Bachelor of Education",
       year: "2022-24",
-      institution: "Jamshedpur Co-operative College, Jamshedpur",
+      institution: "Jamshedpur Co-operative College, Jamshedpur, Jharkhand",
       icon: <GraduationCap className="w-6 h-6 text-blue-600 dark:text-blue-400" />,
     },
     {
