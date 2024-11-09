@@ -11,9 +11,9 @@ export function Profile() {
         />
       </div>
       <div className="text-center md:text-left animate-slide-up">
-        <p className="text-lg font-semibold text-secondary dark:text-light mb-2">Hello, I'm</p>
-        <h1 className="text-4xl md:text-5xl font-bold mb-4 text-primary dark:text-white">Abhitosh Anand</h1>
-        <p className="text-2xl text-secondary dark:text-light mb-8">Physics Teacher</p>
+        <p className="text-lg font-semibold text-primary dark:text-light mb-2">Hello, I'm</p>
+        <h1 className="text-4xl md:text-5xl font-bold mb-4 text-primary dark:text-white">Sushmita Kumari</h1>
+        <p className="text-2xl text-primary dark:text-light mb-8">English Teacher</p>
         <div className="flex gap-4 justify-center md:justify-start mb-8">
           <button onClick={() => window.open('/resume.pdf')} className="btn-secondary">
             Download CV
@@ -27,7 +27,7 @@ export function Profile() {
         </div>
         <div className="flex gap-4 justify-center md:justify-start">
           <a
-            href="tel:+916200413098"
+            href="tel:+919852982926"
             className="text-primary hover:text-secondary dark:text-light dark:hover:text-secondary transition-colors duration-300 hover:scale-110 transform"
           >
             <Phone size={24} />
