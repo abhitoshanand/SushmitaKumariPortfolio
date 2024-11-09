@@ -26,12 +26,12 @@ export function About() {
             <div className="p-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 text-center hover:scale-105 transition-transform duration-300">
               <Briefcase className="mx-auto mb-4 dark:text-gray-400" size={32} />
               <h3 className="font-semibold mb-2 dark:text-white">Experience</h3>
-              <p className="text-gray-600 dark:text-gray-400">5+ years<br />experience in fostering literacy, communication, and critical thinking skills among students</p>
+              <p className="text-gray-600 dark:text-gray-400">5+ years of<br />experience in fostering literacy, communication, and critical thinking skills among students</p>
             </div>
             <div className="p-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 text-center hover:scale-105 transition-transform duration-300">
               <GraduationCap className="mx-auto mb-4 dark:text-gray-400" size={32} />
               <h3 className="font-semibold mb-2 dark:text-white">Education</h3>
-              <p className="text-gray-600 dark:text-gray-400">Bachelor of Arts in English Language and Literature<br />Master of Arts in English Language and Literature<br/>Bachelor of Education </p>
+              <p className="text-gray-600 dark:text-gray-400">B.A in English Language and Literature<br />M.A in English Language and Literature<br/>Bachelor of Education </p>
             </div>
           </div>
           
