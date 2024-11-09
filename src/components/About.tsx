@@ -36,7 +36,7 @@ export function About() {
           </div>
           
           <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-            Dedicated English teacher with over 5 years of experience fostering literacy, communication, and critical thinking skills in students. Known for creating engaging, student-centered lessons tailored to diverse learning needs. Strengths include curriculum development, classroom management, and integrating technology to enhance learning. Committed to inspiring a love for reading and language, nurturing students' confidence and communication abilities, and driving measurable improvements in academic performance.
+            Dedicated English teacher with over 5 years of experience in fostering literacy, communication, and critical thinking skills among students. Known for creating engaging, student-centered lessons tailored to diverse learning needs. Strengths include curriculum development, classroom management, and integrating technology to enhance learning. Committed to inspiring a love for reading and language, nurturing students' confidence and communication abilities, and driving measurable improvements in academic performance.
           </p>
         </div>
       </div>
