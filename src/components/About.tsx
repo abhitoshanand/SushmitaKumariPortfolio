@@ -25,8 +25,8 @@ export function About() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
             <div className="p-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 text-center hover:scale-105 transition-transform duration-300">
               <Briefcase className="mx-auto mb-4 dark:text-gray-400" size={32} />
-              <h3 className="font-semibold mb-2 dark:text-white">Certifications & Achievements</h3>
-              <p className="text-gray-600 dark:text-gray-400">CTET July 2024 Qualified; Marks: 96 out of 150<br />Best English Teacher 2019-21, Awarded by Disha Classes, Kadma Jamshedpur</br>Best English Teacher 2021-23, Awarded by Disha Classes, Kadma Jamshedpur</p>
+              <h3 className="font-semibold mb-2 dark:text-white">Certifications</h3>
+              <p className="text-gray-600 dark:text-gray-400">CTET July 2024 Qualified<br />Best English Teacher 2019-21, Awarded by Disha Classes, Kadma Jamshedpur</br>Best English Teacher 2021-23, Awarded by Disha Classes, Kadma Jamshedpur</p>
             </div>
             <div className="p-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 text-center hover:scale-105 transition-transform duration-300">
               <GraduationCap className="mx-auto mb-4 dark:text-gray-400" size={32} />
