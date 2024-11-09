@@ -26,17 +26,17 @@ export function About() {
             <div className="p-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 text-center hover:scale-105 transition-transform duration-300">
               <Briefcase className="mx-auto mb-4 dark:text-gray-400" size={32} />
               <h3 className="font-semibold mb-2 dark:text-white">Experience</h3>
-              <p className="text-gray-600 dark:text-gray-400">5+ years<br />Home Tuition (class VI to XII)</p>
+              <p className="text-gray-600 dark:text-gray-400">5+ years<br />experience in fostering literacy, communication, and critical thinking skills among students</p>
             </div>
             <div className="p-6 bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 text-center hover:scale-105 transition-transform duration-300">
               <GraduationCap className="mx-auto mb-4 dark:text-gray-400" size={32} />
               <h3 className="font-semibold mb-2 dark:text-white">Education</h3>
-              <p className="text-gray-600 dark:text-gray-400">B.Sc. with Physics Hons.<br />M.Sc.Physics<br/>Bachelor's in Education </p>
+              <p className="text-gray-600 dark:text-gray-400">Bachelor of Arts in English Language and Literature<br />Master of Arts in English Language and Literature<br/>Bachelor of Education </p>
             </div>
           </div>
           
           <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-            As a Physics enthusiast with five years of experience, I specialize in making complex physics concepts accessible and engaging for students. My teaching methodology has evolved significantly, enhanced by my microteaching training during my Bachelor's in Education and a five-month JCERT internship at government schools. The research experience gained through various projects during my B.Sc. and M.Sc. programs has been instrumental in developing effective and comprehensive lesson plans for my students.
+            Dedicated English teacher with over 5 years of experience fostering literacy, communication, and critical thinking skills in students. Known for creating engaging, student-centered lessons tailored to diverse learning needs. Strengths include curriculum development, classroom management, and integrating technology to enhance learning. Committed to inspiring a love for reading and language, nurturing students' confidence and communication abilities, and driving measurable improvements in academic performance.
           </p>
         </div>
       </div>
