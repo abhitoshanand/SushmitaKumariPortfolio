@@ -19,7 +19,7 @@ export function Navbar() {
   return (
     <>
       <nav className="hidden md:flex justify-around items-center h-[17vh] animate-fade-in dark:bg-gray-900">
-        <div className="text-3xl font-semibold dark:text-white">Abhitosh Anand</div>
+        <div className="text-3xl font-semibold dark:text-white">Sushmita Kumari</div>
         <ul className="flex items-center gap-8">
           {navLinks.map((link, index) => (
             <li
