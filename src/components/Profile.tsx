@@ -33,7 +33,7 @@ export function Profile() {
             <Phone size={24} />
           </a>
           <a
-            href="mailto:abhitoshanand99@gmail.com"
+            href="mailto:sushmitakumari1604@gmail.com"
             className="text-primary hover:text-secondary dark:text-light dark:hover:text-secondary transition-colors duration-300 hover:scale-110 transform"
           >
             <Mail size={24} />
