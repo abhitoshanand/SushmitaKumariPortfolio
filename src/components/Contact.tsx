@@ -20,7 +20,7 @@ export function Contact() {
         <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-8">
           <div className="space-y-6">
             <a
-              href="tel:+916200413098"
+              href="tel:+919852982926"
               className="flex items-center gap-4 group p-4 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-300"
             >
               <div className="p-3 bg-blue-50 dark:bg-blue-900/20 rounded-full group-hover:scale-110 transition-transform duration-300">
@@ -33,7 +33,7 @@ export function Contact() {
             </a>
 
             <a
-              href="mailto:abhitoshanand99@gmail.com"
+              href="mailto:sushmitakumari1604@gmail.com"
               className="flex items-center gap-4 group p-4 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-300"
             >
               <div className="p-3 bg-blue-50 dark:bg-blue-900/20 rounded-full group-hover:scale-110 transition-transform duration-300">
