@@ -5,7 +5,7 @@ export function Profile() {
     <section id="profile" className="min-h-screen flex flex-col md:flex-row items-center justify-center gap-12 px-6 md:px-16">
       <div className="w-64 h-64 md:w-96 md:h-96 rounded-full overflow-hidden animate-fade-in hover:scale-105 transition-transform duration-300 border-4 border-secondary">
         <img
-          src="/SushmitaProfileImageBlue.jpg"
+          src="/IMG-20241116-WA0008.jpg"
           alt="Profile"
           className="w-full h-full object-cover"
         />
