@@ -14,7 +14,7 @@ export function Experience() {
       achievements: [
         'Supported foundational English language skills for students with limited exposure to English outside the classroom, adhering to the JCERT curriculum.',
         'Developed lesson plans that were accessible and engaging, emphasizing reading, writing, grammar, and comprehension.',
-        'Assessed student progress, provided constructive feedback, and collaborated with school staff on state education policies and extracurricular activities.'
+        'Assessed student progress, provided constructive feedback.'
       ]
     },
     {
