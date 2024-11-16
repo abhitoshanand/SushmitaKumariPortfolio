@@ -29,7 +29,7 @@ In formulating the semiotic/semiological effect/application on feminist drama, B
 
 However, semiotic performance theory examines the relationship between the signifiers and the signified in an attempt to understand how a given phenomenon creates meaning for its viewer and how that viewer participates in the creation of meaning. (Scott, 82). 
 
-Feminist theatre theory primarily concerned with the sign Woman which is imprinted with ideology of the dominant culture, the normative values and belief of the culture control the connotations of the sign and prescribes its resonances with cultural biases. The cultural construct of ‘woman’ produced by dominant patriarchal ideology as an object has to be looked at by male who is assumed to be the subject of dramatic action and the female object of his gaze. The corporeal presence of a woman on stage in theatre makes biological  . 
+Feminist theatre theory primarily concerned with the sign Woman which is imprinted with ideology of the dominant culture, the normative values and belief of the culture control the connotations of the sign and prescribes its resonances with cultural biases. The cultural construct of ‘woman’ produced by dominant patriarchal ideology as an object has to be looked at by male who is assumed to be the subject of dramatic action and the female object of his gaze. The corporeal presence of a woman on stage in theatre makes biological.'
 
 },
     {
