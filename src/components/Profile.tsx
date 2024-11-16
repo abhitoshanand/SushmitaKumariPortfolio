@@ -39,7 +39,7 @@ export function Profile() {
             <Mail size={24} />
           </a>
           <a
-            href="https://linkedin.com/in/abhitosh-anand-537710184"
+            href="https://www.linkedin.com/in/sushmita-kumari-b9028716a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary hover:text-secondary dark:text-light dark:hover:text-secondary transition-colors duration-300 hover:scale-110 transform"
