@@ -12,7 +12,6 @@ export function Navbar() {
     { href: '#education', label: 'Education' },
     { href: '#experience', label: 'Experience' },
     { href: '#projects', label: 'Projects' },
-    { href: '#lectures', label: 'Lectures' },
     { href: '#contact', label: 'Contact' },
   ];
 
