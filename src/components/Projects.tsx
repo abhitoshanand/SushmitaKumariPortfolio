@@ -20,7 +20,7 @@ export function Projects() {
     {
       title: 'Understanding the Principles of Growth and Development of Children in Education',
       description: 'This project explores principles of growth and development of children, emphasizing their importance in shaping effective educational strategies.',
-      image: 'https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?w=800&h=600',
+      image: '/Pic2project.jpg',
       abstract: `Growth and development are fundamental processes in the life of every individual, often discussed together but distinctly different. Growth refers to the physical changes in an individual, such as height, weight, and size, while development encompasses the overall changes in structure, function, and behavior. A teacher's understanding of these processes is crucial for effectively stimulating a child's growth and development. Growth is a quantitative process, starting from conception and ceasing at a particular age, while development is both qualitative and quantitative, continuing throughout life. Various principles govern these processes, including continuity, integration, individual differences, and the interaction between heredity and environment. These principles guide teachers in creating conducive learning environments, recognizing individual needs, and fostering well-rounded development. Understanding these principles helps educators address developmental challenges and plan educational experiences that cater to children's physical, cognitive, and emotional growth. Through this knowledge, teachers can promote balanced development and maximize each child's potential.`,
     },
   ];
