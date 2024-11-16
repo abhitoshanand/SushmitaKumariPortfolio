@@ -46,7 +46,7 @@ export function Contact() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/abhitosh-anand-537710184"
+              href="https://www.linkedin.com/in/sushmita-kumari-b9028716a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-4 group p-4 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors duration-300"
