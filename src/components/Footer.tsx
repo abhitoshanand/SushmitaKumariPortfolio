@@ -24,7 +24,7 @@ export function Footer() {
         </ul>
       </nav>
       <p className="text-center text-gray-600 dark:text-gray-400">
-        Copyright © {new Date().getFullYear()} Abhitosh Anand. All Rights Reserved.
+        Copyright © {new Date().getFullYear()} Sushmita Kumari. All Rights Reserved.
       </p>
     </footer>
   );
